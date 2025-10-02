@@ -1,0 +1,47 @@
+{
+  "announcements": [
+    {
+      "id": "release-1.3.0",
+      "announcementType": "update",
+      "title": "Penpoint 1.3.0 Available",
+      "message": "New features: Timeline view, character relationships, enhanced search, and 50+ bug fixes. This update improves performance and adds highly-requested features.",
+      "cta": {
+        "text": "Download Now",
+        "url": "https://penpoint.app/download"
+      },
+      "publishedAt": "2025-01-10T00:00:00Z"
+    },
+    {
+      "id": "2025-03-spring-sale",
+      "announcementType": "promotion",
+      "title": "Spring Sale - 20% Off!",
+      "message": "Support Penpoint development and save 20% until March 31st. Use code SPRING2025 at checkout. Perfect time to upgrade or gift to a fellow writer!",
+      "cta": {
+        "text": "Get Penpoint",
+        "url": "https://penpoint.app/buy"
+      },
+      "publishedAt": "2025-01-15T00:00:00Z",
+      "expiresAt": "2025-03-31T23:59:59Z"
+    },
+    {
+      "id": "tip-keyboard-shortcuts-2025-10",
+      "announcementType": "tip",
+      "title": "Pro Tip: Keyboard Shortcuts",
+      "message": "Press Ctrl+K (Cmd+K on Mac) to quickly search characters, locations, and items across all your books. You can also use arrow keys to navigate results!",
+      "publishedAt": "2025-10-01T00:00:00Z",
+      "expiresAt": "2025-10-01T23:59:59Z"
+    },
+    {
+      "id": "community-showcase-march-2025",
+      "announcementType": "announcement",
+      "title": "Join Our Community Showcase",
+      "message": "Share your worldbuilding journey! We're featuring Penpoint users in our March showcase. Submit your character maps, timelines, or creative process for a chance to be featured on our blog.",
+      "cta": {
+        "text": "Learn More",
+        "url": "https://penpoint.app/blog/community-showcase"
+      },
+      "publishedAt": "2025-01-05T00:00:00Z",
+      "expiresAt": "2025-03-25T23:59:59Z"
+    }
+  ]
+}
