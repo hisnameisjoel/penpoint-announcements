@@ -5,11 +5,9 @@
       "announcementType": "announcement",
       "title": "Welcome to the Penpoint Beta!",
       "message": "Thank you for being part of our beta program! Your feedback is invaluable as we refine Penpoint into the best writing companion for tracking characters, locations, and worldbuilding details. We're excited to have you on this journey with us.",
-      "cta": {
-        "text": "Share Feedback",
-        "url": "mailto:hisnameisjoel@gmail.com"
       },
       "publishedAt": "2025-10-01T00:00:00Z"
     }
   ]
 }
+
