@@ -7,8 +7,7 @@
       "message": "Check out the latest features and improvements!",
       "contentUrl": "https://announcements.penpoint.app/changelog/1.0.3.md",
       "publishedAt": "2025-10-11T00:00:00Z"
-    }
-    
+    },    
     {
       "id": "beta-welcome-2025",
       "announcementType": "announcement",
@@ -18,5 +17,3 @@
     }
   ]
 }
-
-
