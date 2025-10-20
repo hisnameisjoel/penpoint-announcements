@@ -1,6 +1,14 @@
 {
   "announcements": [
     {
+      "id": "whats-new-1.0.5",
+      "announcementType": "whatsNew",
+      "title": "What's New in Penpoint 1.0.5",
+      "message": "Critical database migration fix and dynamic @ mentions! This release automatically repairs databases affected by the v1.0.3→v1.0.4 upgrade issue.",
+      "contentUrl": "https://announcements.penpoint.app/changelog/1.0.5.md",
+      "publishedAt": "2025-10-20T17:45:00Z"
+    },
+    {
       "id": "whats-new-1.0.4",
       "announcementType": "whatsNew",
       "title": "What's New in Penpoint 1.0.4",
