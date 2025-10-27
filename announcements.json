@@ -1,12 +1,12 @@
 {
   "announcements": [
     {
-      "id": "whats-new-1.0.5",
+      "id": "whats-new-1.0.6",
       "announcementType": "whatsNew",
-      "title": "What's New in Penpoint 1.0.5",
-      "message": "Critical database migration fix and dynamic @ mentions! This release automatically repairs databases affected by the v1.0.3→v1.0.4 upgrade issue.",
-      "contentUrl": "https://announcements.penpoint.app/changelog/1.0.5.md",
-      "publishedAt": "2025-10-20T17:45:00Z"
+      "title": "What's New in Penpoint 1.0.6",
+      "message": "Interactive Relationship Map, smooth page transitions, and more! Explore your character relationships in a stunning new visual format with interactive cards, smooth animations, and powerful filtering.",
+      "contentUrl": "https://announcements.penpoint.app/changelog/1.0.6.md",
+      "publishedAt": "2025-10-27T14:59:00Z"
     },   
     {
       "id": "beta-welcome-2025",
