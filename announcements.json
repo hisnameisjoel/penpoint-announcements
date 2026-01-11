@@ -1,11 +1,15 @@
 {
   "announcements": [
     {
-      "id": "beta-welcome-2025",
+      "id": "beta-welcome-2026",
       "announcementType": "announcement",
       "title": "Welcome to the Penpoint Beta!",
-      "message": "Thank you for being part of our beta program! Your feedback is invaluable as we build the best writing tool for tracking characters across your stories. We're excited to have you here!",
-      "publishedAt": "2025-10-01T00:00:00Z"
+      "message": "Thank you for joining our beta program in 2026! Your feedback helps us build the best writing tool for tracking characters, locations, and items across your stories. We've made huge improvements since launch - enjoy exploring!",
+      "cta": {
+        "text": "Share Feedback",
+        "url": "mailto:hisnameisjoel@gmail.com"
+      },
+      "publishedAt": "2026-01-11T00:00:00Z"
     }
   ]
 }
