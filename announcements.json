@@ -22,6 +22,14 @@
         "url": "mailto:hisnameisjoel@gmail.com"
       },
       "publishedAt": "2026-01-11T00:00:00Z"
+    },
+    {
+      "id": "beta-welcome-2025",
+      "announcementType": "announcement",
+      "title": "Welcome to the Penpoint Beta!",
+      "message": "Thank you for being part of our beta program!",
+      "publishedAt": "2025-10-01T00:00:00Z",
+      "expiresAt": "2025-10-02T00:00:00Z"
     }
   ]
 }
