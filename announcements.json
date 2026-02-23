@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "beta-survey-feb-2026",
+      "announcementType": "announcement",
+      "title": "Help Shape Penpoint's Future!",
+      "message": "We hope you're enjoying using Penpoint so far! As we get closer to launch, your feedback matters more than ever. Please take some time to fill out our beta tester survey — it'll help us understand your experience and prioritize what comes next.",
+      "cta": {
+        "text": "Take the Survey",
+        "url": "https://forms.gle/w462B5JyH9EEjzEQ8"
+      },
+      "publishedAt": "2026-02-23T00:00:00Z",
+      "expiresAt": "2026-03-02T23:59:59Z"
+    },
+    {
       "id": "beta-welcome-2026",
       "announcementType": "announcement",
       "title": "Welcome to the Penpoint Beta!",
