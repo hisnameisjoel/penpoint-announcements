@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+      "id": "penpoint-launch-2026",
+      "announcementType": "announcement",
+      "title": "Penpoint Has Officially Launched!",
+      "message": "Penpoint is now officially available for purchase — but your beta copy is yours to keep, forever. Free, no strings attached. Here's what's ahead.",
+      "cta": {
+        "text": "Support the Development",
+        "url": "https://www.penpoint.app/buy"
+      },
+      "contentUrl": "https://announcements.penpoint.app/changelog/launch-announcement.md",
+      "publishedAt": "2026-03-21T07:00:00Z",
+      "expiresAt": "2026-04-01T23:59:59Z"
+    },
+    {
       "id": "beta-survey-feb-2026",
       "announcementType": "announcement",
       "title": "Help Shape Penpoint's Future!",
