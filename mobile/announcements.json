@@ -1,0 +1,12 @@
+{
+  "announcements": [
+    {
+      "id": "test-mobile-e2e-2026-07",
+      "announcementType": "announcement",
+      "title": "Mobile Announcements Are Live",
+      "message": "If you can read this on your phone, the Minipen announcement system is working end to end. This is a test message sent only to the mobile app. Tap the button below to check that links open, then dismiss with \"Got it!\".",
+      "cta": { "text": "Visit Penpoint", "url": "https://penpoint.app" },
+      "publishedAt": "2026-07-17T14:45:28Z"
+    }
+  ]
+}
