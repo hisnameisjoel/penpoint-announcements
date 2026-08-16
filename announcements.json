@@ -1,6 +1,21 @@
 {
   "announcements": [
     {
+      "id": "announcement-sync-beta-testers-2026-08",
+      "announcementType": "announcement",
+      "title": "Help Test Penpoint Cloud!",
+      "message": "I've been dreaming about this since I started building Penpoint: real encrypted cloud backups and multi-device sync, built right into the app, and we're almost there! Penpoint Cloud is fully baked into the core engine, syncing everything (yes, even your preferences!), and there's a new iOS and Android app coming right alongside it.\n\nBut before it goes out to everyone, I need your help testing it first. If you're interested in helping test this big new feature, head to the Penpoint Discord (link below). Once in, check the #announcements channel or click the flask emoji in the #role-request channel to grab the Sync Testers role. That will unlock the beta channel where I've already got everything set up to roll out our testing soon.\n\nWe'll test Desktop first, then the Minipen mobile app as it rolls out (thank you to everyone who's already been helping test that one, you're the best). No pressure though, if you'd rather wait for the finished version, that's totally fine too.\n\nHope to see you there!\n-Joel",
+      "cta": {
+        "text": "Join on Discord",
+        "url": "https://discord.gg/q7yV3PXrGB"
+      },
+      "publishedAt": "2026-08-16T20:53:59Z",
+      "expiresAt": "2026-09-06T23:59:59Z",
+      "platforms": [
+        "desktop"
+      ]
+    },
+    {
       "id": "penpoint-launch-2026",
       "announcementType": "announcement",
       "title": "Penpoint Has Officially Launched!",
