@@ -1,3 +1,12 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "announcement-testing-the-minipen-announcement-2026-09",
+      "announcementType": "announcement",
+      "title": "Testing the Minipen Announcement",
+      "message": "Hi Minipen Testers! You all are awesome. Just wanted to tell you all that. This is also a test of the Minipen announcement system, but mostly I just want to say you all rock and I super appreciate you.\n-Joel",
+      "publishedAt": "2026-09-14T21:43:14Z",
+      "expiresAt": "2026-09-16T21:43:14Z"
+    }
+  ]
 }
