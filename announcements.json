@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "announcement-state-of-the-pen-2026-09",
+      "announcementType": "announcement",
+      "title": "State of the Pen: Live Q&A This Saturday",
+      "message": "Join Joel (the developer of Penpoint) live for State of the Pen: a chat about where Penpoint stands today and what's coming next, including plans for Novel November and more! Bring your questions about the app, feature requests, pain points, and anything else you can think of; there's an open Q&A. It's happening this Saturday, September 26: 10 AM Pacific, 1 PM Eastern, 6 PM London, 7 PM Central Europe, on the Penpoint Discord. Click the link below to sign up to join. See you there!",
+      "cta": {
+        "text": "RSVP on Discord",
+        "url": "https://discord.gg/4kH4S6h8?event=1551996935102144593"
+      },
+      "publishedAt": "2026-09-22T18:11:52Z",
+      "expiresAt": "2026-09-26T18:00:00Z"
+    },
+    {
       "id": "announcement-sync-beta-testers-2026-08",
       "announcementType": "announcement",
       "title": "Help Test Penpoint Cloud!",
