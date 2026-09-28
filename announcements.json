@@ -1,6 +1,18 @@
 {
   "announcements": [
     {
+      "id": "announcement-state-of-the-pen-writeup-2026-09",
+      "announcementType": "announcement",
+      "title": "Missed State of the Pen? Catch Up Here",
+      "message": "A huge thank you to everyone who came to the first annual State of the Pen! It was so much fun to show where Penpoint has come from and where we're headed, together. Thanks for listening to me yammer for two hours; your ideas and feedback were amazing, and I'm so excited to keep going on this journey with you.\n\nIf you missed it (or want a refresher), the full writeup is on the Penpoint website. It walks through what's shipped, what's planned, and the bigger dream for Penpoint.\n\nOne headline from the talk: Novel November is coming! New writers will get a 45-day free trial, and every Penpoint writer (old and new!) will get Penpoint Cloud and the Minipen mobile app free for all of November. Write on the go, and know your book is safely backed up on all your devices.\n\nHave a wonderful week, and happy writing!\n-Joel",
+      "cta": {
+        "text": "Read the Keynote",
+        "url": "https://penpoint.app/state-of-the-pen/2026"
+      },
+      "publishedAt": "2026-09-28T01:08:11Z",
+      "expiresAt": "2026-10-11T23:59:59Z"
+    },
+    {
       "id": "announcement-state-of-the-pen-2026-09",
       "announcementType": "announcement",
       "title": "State of the Pen: Live Q&A This Saturday",
