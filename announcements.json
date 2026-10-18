@@ -1,6 +1,17 @@
 {
   "announcements": [
     {
+      "id": "announcement-cloud-free-until-dec-2026-10",
+      "announcementType": "announcement",
+      "title": "Penpoint Cloud Is Free Until December 1!",
+      "message": "Penpoint Cloud is finally here! Your books can back themselves up automatically and follow you across up to five computers, and everything is encrypted on your computer before it ever leaves, so only you can read it.\n\nAnd for Novel November (starting a little early), Penpoint Cloud is free for every Penpoint writer until December 1. No card needed. Cloud comes with Penpoint 1.4.0, so if you haven't updated yet, close and reopen Penpoint and click \"Install Update.\" Then open Settings and click Penpoint Cloud (Beta) to sign up.\n\nCloud is brand new, so if anything looks off, please tell me! Click the (?) button and choose Contact Support. You can attach a screenshot and your logs right from the form, and it's the fastest way to reach me.\n\nHappy writing!\n-Joel",
+      "publishedAt": "2026-10-18T04:34:31Z",
+      "expiresAt": "2026-11-30T23:59:59Z",
+      "platforms": [
+        "desktop"
+      ]
+    },
+    {
       "id": "announcement-state-of-the-pen-writeup-2026-09",
       "announcementType": "announcement",
       "title": "Missed State of the Pen? Catch Up Here",
