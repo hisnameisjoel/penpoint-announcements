@@ -1,6 +1,21 @@
 {
   "announcements": [
     {
+      "id": "announcement-minipen-app-stores-2026-10",
+      "announcementType": "announcement",
+      "title": "Minipen Is Out on iPhone and Android!",
+      "message": "Minipen, the Penpoint phone app, is officially on the App Store and Google Play! You can write your manuscript, look up a character in the middle of a scene, or add a note while you're away from your desk, and it's all waiting for you back here in Penpoint.\n\nIt works with Penpoint Cloud, which is free for everyone until December 1. If you haven't turned on Cloud yet, open Settings and click Penpoint Cloud (Beta). Then sign in on your phone with the same email and password. The app is brand new, so if anything looks off, click the (?) button in desktop Penpoint, choose Contact Support and tell me about it, or send a post on Discord.\n\nHappy writing!\n-Joel",
+      "cta": {
+        "text": "Get Minipen",
+        "url": "https://penpoint.app/penpoint-cloud#minipen"
+      },
+      "platforms": [
+        "desktop"
+      ],
+      "publishedAt": "2026-10-28T16:43:42Z",
+      "expiresAt": "2026-11-30T23:59:59Z"
+    },
+    {
       "id": "announcement-cloud-free-until-dec-2026-10",
       "announcementType": "announcement",
       "title": "Penpoint Cloud Is Free Until December 1!",
